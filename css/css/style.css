@@ -2,16 +2,18 @@
   text-align: center;
   font-size: 14px;
   color: gray;
-  background-position: 40%;
+  background-position: 35%;
   background-size: 6%;
+  background-image: url("/assets/assets/search-solid.svg");
+  background-repeat: no-repeat;
 }
 
 input.empty {
-    font-family: FontAwesome;
-    font-style: normal;
-    font-weight: normal;
-    text-decoration: inherit;
-    background-color: #FAFAFA;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: inherit;
+  background-color: #FAFAFA;
 }
 
 .postuserfont {
